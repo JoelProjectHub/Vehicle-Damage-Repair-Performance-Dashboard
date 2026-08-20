@@ -145,25 +145,6 @@ SQL reconciliation queries were used alongside Power BI validation measures to c
 - Operational performance analysis
 - Data-quality validation
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── dashboard-preview.png
-├── S&OP KPIs - Damages.pbix
-└── sql/
-    └── validation-queries.sql
-```
-
-## Privacy and Data Security
-
-This repository is intended to demonstrate Power BI development, analytical design, and data-modeling skills.
-
-Proprietary source data, credentials, connection strings, customer information, vehicle identification numbers, and organization-specific identifiers should not be included in the public version of this repository.
-
-Any displayed information should be anonymized, aggregated, or replaced with synthetic data.
-
 ## Author
 
 **Joel Perez**

@@ -1,9 +1,9 @@
 # Vehicle Damage & Repair Performance Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-0078D4?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-217346?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Validation-336791?style=flat-square)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logoColor=white" alt="DAX">
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" alt="Power Query">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" alt="SQL">
 
 An interactive Power BI dashboard developed to monitor vehicle damage frequency, repair costs, and repair-cycle performance across facilities and vehicle programs.
 

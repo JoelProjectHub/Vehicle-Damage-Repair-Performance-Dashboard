@@ -9,7 +9,7 @@ An interactive Power BI dashboard developed to monitor vehicle damage frequency,
 
 ## Dashboard Preview
 
-![Vehicle Damage and Repair Performance Dashboard](dashboard-preview.png)
+<img width="1568" height="788" alt="image" src="https://github.com/user-attachments/assets/f8bc1cc4-14eb-46cc-85a7-7ff0732fc7a7" />
 
 ## Project Overview
 
